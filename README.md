@@ -1,4 +1,4 @@
-<center># JAVA_socket
+# <center>JAVA_socket
   
 初学Java，开始是为了理解Java下的socket通信过程，结果了解这就想要实现socket传输文件的功能，文件在传输时有进度条显示，可以自己传输文件的路径，希望对自己有帮助的可以Star一下 ^_^^_^<br》
 
